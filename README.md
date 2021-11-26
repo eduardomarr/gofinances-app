@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/143626572-ea6edf97-e27c-47ab-91cf-530f11a24896.png">
+  <img src="https://user-images.githubusercontent.com/24718475/143627816-acf2b29c-b6f2-4f51-964c-4c2e2bf7a1b2.png">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/143626576-682f484a-2908-4b67-89a5-5aebf50ae6ba.png">
+  <img src="https://user-images.githubusercontent.com/24718475/143627823-d5827769-420e-499b-adc8-9b0c73c2777e.png">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24718475/143626579-0e8e3e6c-663e-4f98-9db6-6ddd27cd2afa.png">
+  <img src="https://user-images.githubusercontent.com/24718475/143627825-c0df7bb2-cb6b-4d3e-821c-dc987f99f8ee.png">
 </p>
 
 <h1>goFinances</h1>
