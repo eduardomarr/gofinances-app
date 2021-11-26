@@ -32,3 +32,25 @@
   <li>React-native-gesture-handler</li>
   <li>Victory-native</li>
 </ul>
+
+<h2>Instalação</h2>
+  <pre>
+  // clonar o repositório
+    $ git clone https://github.com/eduardomarr/gofinances-app
+  </pre>
+    
+  <pre>
+  // Entrar no diretório do repositório clonado
+    $ cd gofinances-app
+  </pre>
+  
+  <p>Instalar as dependências e inicializar a aplicação no Expo</p>
+  <pre>
+  // Abra o diretório no terminal e execute
+    $ yarn
+  </pre>
+  
+  <pre>
+  // Iniciar o projeto
+    $ expo start
+  </pre>
